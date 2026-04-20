@@ -1,60 +1,42 @@
 <h1 align="center">Luiz Cavalcanti</h1>
 
 <p align="center">
-  <strong>QA Engineer · Full Stack Developer · AI & Automation</strong><br/>
-  <a href="https://luizhcrs.github.io/minimal-portfolio/">Portfólio</a> ·
-  <a href="https://linkedin.com/in/luizhcrs">LinkedIn</a> ·
+  QA Engineer &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; AI &amp; Automação
+</p>
+
+<p align="center">
+  <a href="https://luizhcrs.github.io/minimal-portfolio/">Portfólio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/luizhcrs">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:luizhcrs@gmail.com">luizhcrs@gmail.com</a>
 </p>
 
 ---
 
-### Sobre
+### Foco atual
 
-Construo plataformas de serviços compartilhados, aplicações multi-tenant e sistemas de automação — do schema SQL até o deploy em produção. Foco em qualidade, observabilidade e segurança desde o primeiro commit.
+Engenharia de software full-cycle com atenção à qualidade e automação. Do schema SQL ao deploy em produção, passando por testes, observabilidade e UX administrativa.
 
-Atualmente tocando a [Connect Softhouse](https://connectsofthouse.com.br), uma plataforma modular de infraestrutura de produto (Auth, Payments, WhatsApp) consumida por aplicações clientes.
-
----
+Áreas que me interessam: arquiteturas multi-tenant, identidade e autenticação (OIDC/JWT), integrações de pagamento, sistemas com LLMs, reverse engineering e automação de tarefas repetitivas.
 
 ### Stack
 
-**Backend** — Python (FastAPI, SQLAlchemy async, Pydantic), Node.js, PostgreSQL, Redis, Alembic, Celery
-**Frontend** — React 19, TypeScript, Vite, Tailwind, TanStack Query, shadcn/ui, Next.js
-**Infra** — Docker, Traefik, Coolify, Ubuntu VPS, GitHub Actions, Let's Encrypt
-**AI/Automação** — PyTorch, Transformers, Selenium, LangChain, Ollama, Whisper
-**Outros** — Electron, .NET (C#), MT19937/crypto, reverse engineering, Obsidian
-
----
-
-### Plataforma Connect Softhouse
-
-| Serviço | Stack | Status |
-|---------|-------|--------|
-| [Connect Auth](https://auth.connectsofthouse.com.br) | FastAPI · PostgreSQL · JWT RS256 · OIDC | Produção |
-| [Connect Payment](https://payment.connectsofthouse.com.br) | FastAPI · Stripe · Mercado Pago (Pix) · Fernet AES | Produção |
-| [WhatsApp Shared](https://whatsapp.connectsofthouse.com.br) | Evolution API · Traefik · Basic Auth | Produção |
-
----
-
-### Projetos em destaque
-
-- **[minimal-portfolio](https://github.com/Luizhcrs/minimal-portfolio)** — Portfólio pessoal (Next.js + shadcn/ui)
-- **bmseletor** — Modding de PES 2021 (Electron · TypeScript · C# · reverse engineering)
-- **Experimentos AI** — Pipelines de automação, agentes LLM, visão computacional
-
----
+- **Backend**: Python (FastAPI, SQLAlchemy), Node.js, C#, Java
+- **Frontend**: TypeScript, React, Next.js, Tailwind
+- **Dados**: PostgreSQL, Redis, SQL Server
+- **Infra**: Docker, Traefik, Linux, CI/CD, shell scripting
+- **QA**: Selenium, Pytest, automação de testes end-to-end
+- **AI/ML**: PyTorch, Transformers, LangChain, LLMs locais (Ollama)
 
 ### Como trabalho
 
-- Review multi-agente antes de deploy crítico (segurança + código + arquitetura)
-- Segundo cérebro em Obsidian com grafo de conhecimento e insights diários
-- Documentação como contrato: `.md` antes do `.py`
+- Documentação antes do código: um `.md` claro vale por semanas de onboarding
+- Code review com múltiplas lentes (segurança, correção, arquitetura) antes de merges críticos
 - Ferramenta certa pra cada problema, não a mais nova
+- Segundo cérebro em Obsidian pra preservar contexto entre ciclos
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizhcrs&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcrs&layout=compact&theme=default&hide_border=true&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizhcrs&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhcrs&layout=compact&theme=default&hide_border=true&langs_count=8" height="150" alt="Top languages"/>
 </p>
