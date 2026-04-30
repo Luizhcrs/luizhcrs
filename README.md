@@ -35,6 +35,6 @@
 ### Em destaque
 
 - **[Glico](https://github.com/Luizhcrs/glico-app)** — App Android para registro de glicemia em diabetes tipo 1. Offline-first, sem servidor, identidade visual própria. ([landing](https://luizhcrs.github.io/glico-app/) · [APK](https://github.com/Luizhcrs/glico-app/releases/latest))
+- **[tfs-test-runner](https://github.com/Luizhcrs/tfs-test-runner)** — Converte exports xlsx do Azure DevOps em kit HTML de execução de testes com captura de evidência e export PDF. Self-contained, offline. ([docs](https://luizhcrs.github.io/tfs-test-runner/))
 - **[LuminAI](https://github.com/Luizhcrs/LuminAI)** — App Android que detecta imagens geradas por IA (Kotlin)
 - **[orb](https://github.com/Luizhcrs/orb)** — Assistente IA flutuante para desktop Windows (C# WPF + Python LLM)
-- **[Leitor Cavaleiro Express](https://github.com/Luizhcrs/Leitor-Cavaleiro-Express)** — Leitor de código de barras com integração Instagram (Python + Tkinter)
