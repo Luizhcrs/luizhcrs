@@ -23,6 +23,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -32,6 +34,7 @@
 
 ### Em destaque
 
-- **[orb](https://github.com/Luizhcrs/orb)** — Assistente IA flutuante pra desktop Windows (C# WPF + Python LLM)
+- **[Glico](https://github.com/Luizhcrs/glico-app)** — App Android para registro de glicemia em diabetes tipo 1. Offline-first, sem servidor, identidade visual própria. ([landing](https://luizhcrs.github.io/glico-app/) · [APK](https://github.com/Luizhcrs/glico-app/releases/latest))
 - **[LuminAI](https://github.com/Luizhcrs/LuminAI)** — App Android que detecta imagens geradas por IA (Kotlin)
+- **[orb](https://github.com/Luizhcrs/orb)** — Assistente IA flutuante para desktop Windows (C# WPF + Python LLM)
 - **[Leitor Cavaleiro Express](https://github.com/Luizhcrs/Leitor-Cavaleiro-Express)** — Leitor de código de barras com integração Instagram (Python + Tkinter)
